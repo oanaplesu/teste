@@ -1,5 +1,5 @@
 class Test
   def metoda
-    puts "Hello git"
+    puts "Hello git and github"
   end
 end
