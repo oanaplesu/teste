@@ -18,4 +18,8 @@ class Test
   def metodaNoua4
     puts "metoda Noua"
   end
+
+  def metodaNoua6
+    puts "metoda Noua"
+  end
 end
