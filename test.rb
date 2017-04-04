@@ -7,7 +7,7 @@ class Test
     puts "metoda Noua"
   end
 
-  def metodaNoua
+  def metodaNoua2
     puts "metoda Noua"
   end
 
